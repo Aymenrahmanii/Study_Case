@@ -5,7 +5,7 @@ Finds every property management company (Hausverwaltung) in Berlin that public s
 **Result (run of 6–7 Nov 2026):** 1,335 firms · 157 Tier A · 174 Tier B · 49 Tier C · 111 "Research needed" · 46 disqualified · 289 VDIV members · 483 named decision makers · 95 verified personal e-mails · 79 second contacts · 146 stated portfolio sizes · 1,004 contact rows · 2,213 sourced evidence rows · 317 outreach openers · two QA rounds (60 random leads checked live).
 
 ## Deliverables
-- **Lead sheet (Google Sheets):** [open the sheet](https://docs.google.com/spreadsheets/d/1zxge_LUXybhm3Dfr8beFhpJamfIywFv-/edit?usp=sharing) (view only)
+- **Lead sheet (Google Sheets):** [open the sheet](https://docs.google.com/spreadsheets/d/1TbpCa6j0_t470i2AB7JayuAbxXermFzV/edit?usp=sharing) (view only)
 - **Approach presentation:** `[add link]`
 
 The lead sheet isn't stored in this repository, because it contains business contact data of real people.
