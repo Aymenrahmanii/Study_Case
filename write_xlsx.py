@@ -57,7 +57,7 @@ ws0 = wb.active; ws0.title = "README"
 ws0.sheet_view.showGridLines = False
 ws0.column_dimensions["A"].width = 3; ws0.column_dimensions["B"].width = 34; ws0.column_dimensions["C"].width = 110
 ws0["B2"] = "Berlin Property Management Companies – Lead List for Heidi Systems"; ws0["B2"].font = Font(name=F, size=16, bold=True, color="1F3A5F")
-ws0["B3"] = f"Case study by Aymen Rahmeni · data collected {datetime.date(2026,11,6):%d %b %Y} · fully automated pipeline (Python) + manual spot checks"; ws0["B3"].font = Font(name=F, size=10, italic=True, color="666666")
+ws0["B3"] = f"Case study by Aymen Rahmani · data collected {datetime.date(2026,11,6):%d %b %Y} · fully automated pipeline (Python) + manual spot checks"; ws0["B3"].font = Font(name=F, size=10, italic=True, color="666666")
 info = [
     ("What is this?", "Every property management company (Hausverwaltung) in Berlin that I could find in public directories and the VDIV Berlin-Brandenburg member list, de-duplicated, enriched from each company's own website and Impressum, and scored as a lead for a metering service provider."),
     ("Companies in list", f"{len(rows)} companies (sheet 'Leads'); {len(excluded)} directory entries were removed as not property management (sheet 'Excluded')."),
