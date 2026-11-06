@@ -1,0 +1,6 @@
+# scraped data incl. business contact data – never commit
+data/
+__pycache__/
+*.pyc
+# human-review files contain names and e-mail addresses of real people – kept local (see review/README.md)
+review/*.json

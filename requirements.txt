@@ -1,0 +1,6 @@
+requests==2.34.2
+beautifulsoup4==4.15.0
+openpyxl==3.1.5
+urllib3==2.7.0
+# optional – only if you use the Anthropic API instead of the Claude Code CLI for the AI steps:
+# anthropic
